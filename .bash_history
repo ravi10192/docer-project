@@ -52,3 +52,6 @@ atd --version
 systemctl start atd
 sudo yum install atd
 atq
+ ls
+yum install git
+sudo su
